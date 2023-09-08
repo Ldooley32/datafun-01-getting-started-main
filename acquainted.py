@@ -54,7 +54,7 @@ country = "USA"
 
 # Integer data types
 pet_count = 2
-skill_count = 0
+kid_count = 2
 
 # Float data types (floating point numbers, with a decimal point)
 temperature_f = 100.5
@@ -62,7 +62,7 @@ pet_weight_lbs = 12.4
 
 
 # Boolean data types (True or False)
-has_dog = False
+has_cat = True
 likes_analytics = True
 likes_python = True
 
@@ -75,10 +75,10 @@ logger.info(f"Name: {name} ")
 logger.info(f"State: {state}")
 logger.info(f"Country: {country}")
 logger.info(f"Pet count: {pet_count}")
-logger.info(f"Double the pet count: {pet_count * 2}")
-logger.info(f"Skill count: {skill_count}")
+logger.info(f"Kid count: {kid_count}")
+logger.info(f"Dependent count: {pet_count + kid_count}")
 logger.info(f"Temperature: {temperature_f}")
 logger.info(f"Pet weight: {pet_weight_lbs}")
-logger.info(f"Has dog: {has_dog}")
+logger.info(f"Has cat: {has_cat}")
 logger.info(f"Likes analytics: {likes_analytics}")
 logger.info(f"Likes Python: {likes_python}")

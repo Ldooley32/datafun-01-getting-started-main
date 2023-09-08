@@ -58,7 +58,8 @@ logger.info("Eww... that's a lot of decimal places - tmi!")
 #     The first argument is the value to round.
 #     The second argument is the number of decimal places (make it 2 not 12)
 area = round(area, 3)
+after_you_fix_it = round(area, 2) 
 
 # log the results
 logger.info(f"The area of a circle with radius {radius} is {area}.")
-logger.info("Much better! (After you fix it.)")
+logger.info(f"Much better! {after_you_fix_it}")

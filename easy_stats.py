@@ -178,4 +178,18 @@ logger.info(f"   intercept = { intercept:.2f}")
 logger.info("Let's use our best fit line to PREDICT a future value.")
 logger.info(f"   At future x = {future_x:d},")
 logger.info(f"   we predict the value of y will be { future_y:d}.")
-logger.info("How'd we do? Does this make sense given the data?")
+
+#  get feed back on how the student is actually doing
+status = input("How'd we do? enter 'ok' or 'not ok' ") 
+
+if status == "ok":
+    print("Great")
+
+status2 = input('Does this make sense given the data? y/n ')
+
+if status2 == 'y':
+    print("Great!")
+else:
+    print("Let's look at the data again")
+
+

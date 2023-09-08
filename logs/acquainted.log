@@ -1,18 +1,18 @@
-2023-08-28 03:00:01,828.acquainted.INFO ==================================================
-2023-08-28 03:00:01,828.acquainted.INFO Today is 2023-08-28 at 03:00 AM
-2023-08-28 03:00:01,828.acquainted.INFO Running on: posix Darwin 22.6.0
-2023-08-28 03:00:01,828.acquainted.INFO Python version:  3.11.4
-2023-08-28 03:00:01,828.acquainted.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
-2023-08-28 03:00:01,828.acquainted.INFO Working dir: /Users/lauradooley/Documents/datafun-01-getting-started-main
-2023-08-28 03:00:01,828.acquainted.INFO ==================================================
-2023-08-28 03:00:01,828.acquainted.INFO Name: Laura Dooley 
-2023-08-28 03:00:01,828.acquainted.INFO State: Nebraska
-2023-08-28 03:00:01,828.acquainted.INFO Country: USA
-2023-08-28 03:00:01,828.acquainted.INFO Pet count: 2
-2023-08-28 03:00:01,828.acquainted.INFO Double the pet count: 4
-2023-08-28 03:00:01,828.acquainted.INFO Skill count: 0
-2023-08-28 03:00:01,828.acquainted.INFO Temperature: 100.5
-2023-08-28 03:00:01,828.acquainted.INFO Pet weight: 12.4
-2023-08-28 03:00:01,828.acquainted.INFO Has dog: False
-2023-08-28 03:00:01,828.acquainted.INFO Likes analytics: True
-2023-08-28 03:00:01,828.acquainted.INFO Likes Python: True
+2023-09-07 00:06:45,749.acquainted.INFO ==================================================
+2023-09-07 00:06:45,749.acquainted.INFO Today is 2023-09-07 at 12:06 AM
+2023-09-07 00:06:45,749.acquainted.INFO Running on: posix Darwin 22.6.0
+2023-09-07 00:06:45,750.acquainted.INFO Python version:  3.11.4
+2023-09-07 00:06:45,750.acquainted.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-07 00:06:45,750.acquainted.INFO Working dir: /Users/lauradooley/Documents/Datafun/datafun-01-getting-started-main
+2023-09-07 00:06:45,750.acquainted.INFO ==================================================
+2023-09-07 00:06:45,750.acquainted.INFO Name: Laura Dooley 
+2023-09-07 00:06:45,750.acquainted.INFO State: Nebraska
+2023-09-07 00:06:45,750.acquainted.INFO Country: USA
+2023-09-07 00:06:45,750.acquainted.INFO Pet count: 2
+2023-09-07 00:06:45,750.acquainted.INFO Kid count: 2
+2023-09-07 00:06:45,750.acquainted.INFO Dependent count: 4
+2023-09-07 00:06:45,750.acquainted.INFO Temperature: 100.5
+2023-09-07 00:06:45,750.acquainted.INFO Pet weight: 12.4
+2023-09-07 00:06:45,750.acquainted.INFO Has cat: True
+2023-09-07 00:06:45,750.acquainted.INFO Likes analytics: True
+2023-09-07 00:06:45,750.acquainted.INFO Likes Python: True

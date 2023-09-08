@@ -93,4 +93,3 @@ if response == "y":
     print()
 
 # TODO: Run with different responses n, y, other...
-python util_about.py

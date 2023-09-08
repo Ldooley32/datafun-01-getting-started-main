@@ -1,11 +1,12 @@
-2023-08-27 23:10:26,655.basic_expressions.INFO ==================================================
-2023-08-27 23:10:26,655.basic_expressions.INFO Today is 2023-08-27 at 11:10 PM
-2023-08-27 23:10:26,655.basic_expressions.INFO Running on: posix Darwin 22.6.0
-2023-08-27 23:10:26,655.basic_expressions.INFO Python version:  3.11.4
-2023-08-27 23:10:26,655.basic_expressions.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
-2023-08-27 23:10:26,655.basic_expressions.INFO Working dir: /Users/lauradooley/Documents/datafun-01-getting-started-main
-2023-08-27 23:10:26,655.basic_expressions.INFO ==================================================
-2023-08-27 23:10:26,655.basic_expressions.INFO Given base=13 and height=7, triangle area = 45.5
-2023-08-27 23:10:26,655.basic_expressions.INFO Given float_num1=15.4 and float_num2=26.8, sum = 42.2
-2023-08-27 23:10:26,655.basic_expressions.INFO Given num1=560 and num2=25, the difference = 535
-2023-08-27 23:10:26,655.basic_expressions.INFO Rectangle length = 45, and rectangle_width = 8, rectangle_area = 360
+2023-09-07 00:22:16,009.basic_expressions.INFO ==================================================
+2023-09-07 00:22:16,009.basic_expressions.INFO Today is 2023-09-07 at 12:22 AM
+2023-09-07 00:22:16,009.basic_expressions.INFO Running on: posix Darwin 22.6.0
+2023-09-07 00:22:16,009.basic_expressions.INFO Python version:  3.11.4
+2023-09-07 00:22:16,009.basic_expressions.INFO Python path: /Library/Frameworks/Python.framework/Versions/3.11
+2023-09-07 00:22:16,009.basic_expressions.INFO Working dir: /Users/lauradooley/Documents/Datafun/datafun-01-getting-started-main
+2023-09-07 00:22:16,009.basic_expressions.INFO ==================================================
+2023-09-07 00:22:16,009.basic_expressions.INFO Given base=9 and height=13, triangle area = 58.5
+2023-09-07 00:22:16,009.basic_expressions.INFO Given float_num1=34.7 and float_num2=13.6, sum = 48.300000000000004
+2023-09-07 00:22:16,009.basic_expressions.INFO Given num1=780 and num2=45, the difference = 735
+2023-09-07 00:22:16,009.basic_expressions.INFO Rectangle length = 40, and rectangle_width = 34, rectangle_area = 1360
+2023-09-07 00:22:16,009.basic_expressions.INFO Retangle_perimeter = 148
